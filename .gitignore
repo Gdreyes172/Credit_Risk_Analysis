@@ -25,6 +25,7 @@ share/python-wheels/
 *.egg-info/
 .installed.cfg
 Practice/
+Resources/LoanStats_2019Q1.csv
 MANIFEST
 
 # PyInstaller
